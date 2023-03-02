@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center"><img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/> </div>
-
+	
 <br>
 
 ### 📖 About me
@@ -21,10 +21,10 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asror-yuldashev-04759b264)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Asrorxoja04)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asror-yuldashev-04759b264/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Asrorxoja04)
 [![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Asror_04)
-
+	
 </div>
 
 
@@ -33,11 +33,11 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  <a href="https://isocpp.org/">
+<!--   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
+  </a> -->
 &emsp;
-
+  
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
@@ -51,24 +51,65 @@
 	<img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
  </p>
 
-### 👉 Software & Tools
+ ### 👉 Software & Tools
  <p>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-
-
+   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+ 
+	
 </p>
 
 
-<!-- <p><strong>My open source projects and activity</strong></p> -->
-<!-- 
-### LeetCode Stats Card
-![LeetCode Stats](https://leetcode.card.workers.dev/otabekjan?theme=unicorn&font=baloo&extension=activity)
- -->
+## 📘 My top open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+<!--       <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Asror004/mock-data"><b>Mock-Data-Generator</b></a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+### :fire: My Github Stats :
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asror004&" alt="Asror" /></p>
+
+
+   <p align="center">
+          <a href="https://github.com/Asror004">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Asror004&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asror004&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+
+<p align="center">
+        <a href="https://github.com/Asror004">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asror004&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+
+ <p align="center">
+          <a href="https://github.com/Asror004">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asror004&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asror004&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+
+</div>
 
 
 <div>
